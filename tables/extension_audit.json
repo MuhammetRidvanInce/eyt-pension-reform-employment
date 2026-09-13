@@ -1,0 +1,15 @@
+{
+  "sample_n": 128783,
+  "education_missing": 0,
+  "zero_weight_observations": 10,
+  "support_min_cell_n": 124,
+  "standardization_factor_min": 0.6161799994190931,
+  "standardization_factor_max": 1.3518485341512356,
+  "group_n": "{(2022, 0, 0): 6025, (2022, 0, 1): 7092, (2022, 1, 0): 16192, (2022, 1, 1): 15445, (2024, 0, 0): 5494, (2024, 0, 1): 7040, (2024, 1, 0): 15065, (2024, 1, 1): 14982, (2025, 0, 0): 5337, (2025, 0, 1): 6910, (2025, 1, 0): 14503, (2025, 1, 1): 14698}",
+  "source_sha256": {
+    "2022": "ae93cf9657a92325871962c91f0a80d176a4b963c3bfc5a34e818b107540d2de",
+    "2024": "db784118e570778b2f274a8f77b6c91f59c67630bc2c2fc1f9e5626261d4e7d7",
+    "2025": "fe667bd9714c384f9c21d23370adeba89a878368f163e19dcc847ca05b2c937f"
+  },
+  "interpretation": "Exploratory subgroup contrasts; observed education is not pension eligibility. Standardization is descriptive with no inference. No pretrend extrapolation."
+}

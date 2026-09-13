@@ -1,0 +1,13 @@
+{
+  "python": "3.14.3",
+  "platform": "Windows-11-10.0.22621-SP0",
+  "packages": {
+    "numpy": "2.4.3",
+    "pandas": "3.0.1",
+    "scipy": "1.17.1",
+    "statsmodels": "0.14.6",
+    "matplotlib": "3.10.8",
+    "Pillow": "12.1.1"
+  },
+  "note": "Environment used for numerical reproduction and figure generation; Word export was not run."
+}
