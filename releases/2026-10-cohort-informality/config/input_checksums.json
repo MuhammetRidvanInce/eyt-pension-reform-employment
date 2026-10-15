@@ -1,0 +1,50 @@
+[
+  {
+    "year": 2014,
+    "sha256": "9735ed298d0dc1f94308467e2bc0050723c34bdabec8e365a7f47b1950f3b85a"
+  },
+  {
+    "year": 2015,
+    "sha256": "f724c581e02a382fd23cc99238640ee75b7f924b733c7cc711f563d8881f5947"
+  },
+  {
+    "year": 2016,
+    "sha256": "c4106849ce66932bae6c19884d2d42cfe9038c9b1346617779337a56e60bc117"
+  },
+  {
+    "year": 2017,
+    "sha256": "ac65ab0c43aa97ca43f75208ab2df1ff5e24d63d5f432aaed46a1fd3c40dc0e7"
+  },
+  {
+    "year": 2018,
+    "sha256": "733ef172b8d5c24c11982bae4f59b7fe47d5b96408b28e724f23b957e494b16a"
+  },
+  {
+    "year": 2019,
+    "sha256": "610a6f348be39848d6fc0894e28b35a3946ca5b201195ece3dad566ce38b24cb"
+  },
+  {
+    "year": 2020,
+    "sha256": "32f2a3fe462c9e93de7f47c88312c5042399cea23b78de440c058b377c45742e"
+  },
+  {
+    "year": 2021,
+    "sha256": "01dfc2b88ea4a2d6912bec69e36d7cf0425f69406a007029542223d72d949ffc"
+  },
+  {
+    "year": 2022,
+    "sha256": "ae93cf9657a92325871962c91f0a80d176a4b963c3bfc5a34e818b107540d2de"
+  },
+  {
+    "year": 2023,
+    "sha256": "f8169ba012a1211d2a05444c0ccedae3e617f41a556b5528ee1c91d205f47079"
+  },
+  {
+    "year": 2024,
+    "sha256": "b68bb8d8b577e54ac203a8b81acce8574c62fc336a01b41fe2132472e7e3e1d4"
+  },
+  {
+    "year": 2025,
+    "sha256": "fe667bd9714c384f9c21d23370adeba89a878368f163e19dcc847ca05b2c937f"
+  }
+]

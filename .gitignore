@@ -18,3 +18,9 @@ Thumbs.db
 tmp/
 scratch/
 *.log
+
+# Private local configuration and generated input paths
+**/hlfs_paths.local.json
+**/source_manifest.json
+**/historical_source_manifest.json
+**/__pycache__/

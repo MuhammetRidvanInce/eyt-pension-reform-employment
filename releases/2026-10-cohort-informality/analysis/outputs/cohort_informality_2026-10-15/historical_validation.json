@@ -1,0 +1,25 @@
+{
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "older_n": 252485,
+  "recent_proxy_n": 215922,
+  "cohort_definition": "survey year - completed age; proxy 1975-1981 vs 1982-1984",
+  "no_model_crosses_2021_break": true,
+  "bootstrap_validation": {
+    "history_2014-2020_direct_bootstrap_error": 2.7056135110115065e-12,
+    "history_2021-2025_direct_bootstrap_error": 8.793632488846015e-12
+  },
+  "scope_decision": "Earlier microdata available back to 2000; diagnostic starts in 2014 to avoid the earlier 2014 survey break. Main model retains actual birth years and 2021-2025."
+}

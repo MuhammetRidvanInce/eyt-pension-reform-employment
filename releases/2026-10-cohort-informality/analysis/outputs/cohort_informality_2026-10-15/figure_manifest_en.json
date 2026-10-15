@@ -1,0 +1,32 @@
+{
+  "data": [
+    "dynamic_results.csv",
+    "informality_partitions.csv"
+  ],
+  "figures": [
+    "figure1_cohort_employment",
+    "figure2_informal_employment_status"
+  ],
+  "intervals": "birth-cluster CR1 and t(G-1), pointwise 95%, not bootstrap-inverted",
+  "reference_year": 2022,
+  "ci_linewidth": 1.7,
+  "highlight_years": [
+    2024,
+    2025
+  ],
+  "base_color": "#202020",
+  "highlight_color": "#c45b19",
+  "connecting_line": "dashed",
+  "highlight_ci_linewidth": 2.5,
+  "layouts": {
+    "figure1": "four-panel event study",
+    "figure2": "horizontal grouped coefficients, 2023-2025"
+  },
+  "figure2_markers": {
+    "2023": "circle",
+    "2024": "open triangle",
+    "2025": "filled square"
+  },
+  "no_embedded_suptitle_or_notes": true,
+  "dpi": 300
+}
